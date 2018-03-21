@@ -44,7 +44,7 @@ Changes to be committed:
 On branch master
 nothing to commit, working tree clean - minden OK!
 
-Eddig a saját gépen kezeltük a gitet, most ezt hozzákapcsoljuk a távoli szerverhez pl. a Githubhoz.
+#Eddig a saját gépen kezeltük a gitet, most ezt hozzákapcsoljuk a távoli szerverhez pl. a Githubhoz.
 
 8. Az accountod alatt hozz létre egy új repositoryt, másold vágólapra a linkjét
 
