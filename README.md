@@ -1,5 +1,7 @@
 # Git parancssori kezelése
 
+Miután telepítve van a git for windows (A VS valószynűleg megtette. Ellenőrizhető a konzolon kiadott git --version paranccsal )
+
 1. A parancssorban betallózzuk a kívánt könyvtárat
 
 2. git init - Ezzel létrejön egy rejtett könyvár .git néven
