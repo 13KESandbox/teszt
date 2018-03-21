@@ -115,6 +115,8 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 Minden helyi módosítás után commit-olni kell a helyi repoba, majd push a távoliba
 Ha a távoli módosul valaki más által, akkorr pull. 
 
+########################################################################################################################
+
 
 
 
