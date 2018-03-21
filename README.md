@@ -51,6 +51,14 @@ nothing to commit, working tree clean - minden OK!
 8. Az accountod alatt hozz létre egy új repositoryt, másold vágólapra a linkjét!
 
 9. git remote add origin <link> - 
+C:\git>git remote add origin https://github.com/13KESandbox/teszt.git
+
+10. git push -u origin master - Ez másolja a távoli repoba a helyit.
+Ha ilyesmi hibaüzenetet kapunk: 
+remote: Permission to 13KESandbox/teszt.git denied to <felhasználónév>.
+fatal: unable to access 'https://github.com/13KESandbox/teszt.git/': The requested URL returned error: 403,
+
+git config --global user.name "<github felhasználónév>" 
 
 
 
