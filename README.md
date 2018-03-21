@@ -54,11 +54,11 @@ nothing to commit, working tree clean - minden OK!
 C:\git>git remote add origin https://github.com/13KESandbox/teszt.git
 
 10. git push -u origin master - Ez másolja a távoli repoba a helyit.
-Ha ilyesmi hibaüzenetet kapunk: 
-remote: Permission to 13KESandbox/teszt.git denied to <felhasználónév>.
-fatal: unable to access 'https://github.com/13KESandbox/teszt.git/': The requested URL returned error: 403,
+Ha hibaüzenetet kapunk: git pull origin master --allow-unrelated-histories
+utána még egyszer push 
 
-git config --global user.name "<github felhasználónév>" 
+
+ 
 
 
 
