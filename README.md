@@ -50,6 +50,7 @@ nothing to commit, working tree clean - minden OK!
 
 8. Az accountod alatt hozz létre egy új repositoryt, másold vágólapra a linkjét!
 
-9. git remote add origin 
+9. git remote add origin <link> - 
+
 
 
